@@ -1,12 +1,22 @@
+/* Font mian css  */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,600;1,400&family=Roboto:wght@500&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
 .primary-btn{
     background-color: #289BDE;
     color: white;
     
 }
-
-.section-bg-color{
-    background-color: rgba(0, 0, 0, 0.5);
+.filter-img{
+    filter: brightness(60%);
 }
+
 .about-sec-bg{
     background-color: #F4FAFD;
 }
